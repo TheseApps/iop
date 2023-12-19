@@ -33,10 +33,10 @@
 ## Inaccessible Sites:
     SIOP (Society for Industrial and Organizational Psychology) main website: 
         https://www.siop.org/
-    
+
     SIOP's IOP Journal webpage: 
         https://www.siop.org/Research-Publications/IOP-Journal
-    
+   
     Texas A&M University I-O program documents: 
         https://liberalarts.tamu.edu/psychology/phd/io/i-o-program-documents/
     
