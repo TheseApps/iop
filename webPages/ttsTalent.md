@@ -1,6 +1,5 @@
 https://www.tts-talent.com/blog/trends-in-io-psychology-results-from-our-2023-survey
 
-
 A few months ago, we asked our newsletter subscribers to complete our 2023 Trends in IO Psychology survey. We designed our survey to poll the IO Psychology and talent professional community on their thoughts on the future of IO Psychology and forces that will shape the profession within the coming year. 
 
 We polled our participants on several current, past and possible future trends within the profession, as well as their own ideas about which themes are likely to emerge in this and coming years. Here are the results!
